@@ -1,0 +1,23 @@
+[
+    {
+        "__type__": "Book",
+        "isbn": "9782070360046",
+        "title": "Le Petit Prince",
+        "date": "1943-04-06",
+        "price": 6.5
+    },
+    {
+        "__type__": "Book",
+        "isbn": "9782266180319",
+        "title": "Vingt mille lieues sous les mers",
+        "date": "1943-04-06",
+        "price": 8.2
+    },
+    {
+        "__type__": "Book",
+        "isbn": "9782266120319",
+        "title": "Vingt mille lieues sous les terres",
+        "date": "1943-04-06",
+        "price": 9.2
+    }
+]

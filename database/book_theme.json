@@ -1,0 +1,27 @@
+[
+    {
+        "__type__": "BookTheme",
+        "isbn_book": "9782070360046",
+        "id_theme": 1
+    },
+    {
+        "__type__": "BookTheme",
+        "isbn_book": "9782266180319",
+        "id_theme": 1
+    },
+    {
+        "__type__": "BookTheme",
+        "isbn_book": "9782266180319",
+        "id_theme": 2
+    },
+    {
+        "__type__": "BookTheme",
+        "isbn_book": "9782266120319",
+        "id_theme": 1
+    },
+    {
+        "__type__": "BookTheme",
+        "isbn_book": "9782266120319",
+        "id_theme": 2
+    }
+]

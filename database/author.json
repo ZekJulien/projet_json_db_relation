@@ -1,0 +1,12 @@
+[
+    {
+        "__type__": "Author",
+        "id": 1,
+        "full_name": "Julien"
+    },
+    {
+        "__type__": "Author",
+        "id": 2,
+        "full_name": "Francois"
+    }
+]
